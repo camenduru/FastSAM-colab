@@ -17,3 +17,5 @@ https://huggingface.co/spaces/An-619/FastSAM/tree/main <br />
 https://arxiv.org/abs/2306.12156.pdf
 
 ## Output
+![Screenshot 2023-09-28 172652](https://github.com/camenduru/FastSAM-colab/assets/54370274/93417e3d-876c-4a4f-8e49-d439a7e9e73b)
+
